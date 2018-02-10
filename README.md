@@ -1,0 +1,1 @@
+Hi there! This is some work from a CS 210: Introduction to Unix course at Sonoma State University. I have since continued my computer science education at the University of Pennsylvannia. I will soon add a bit about each assignment in order to clarify a bit about each folder and what knowledge is demonstrated in each!
